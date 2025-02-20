@@ -1,2 +1,2 @@
-# 250-Project-Android-
+# 250-Project-Android
 Android project
